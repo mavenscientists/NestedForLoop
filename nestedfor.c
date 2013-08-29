@@ -25,8 +25,8 @@ int main()
 	int row;
 	int col;
 	
-	/* A for loop inside another is called a nested for loop subsequently, 
-	an if atatement inside another is called nested if  
+	/* An if atatement inside another is called nested if subsequently,
+           a for loop inside another is called a nested for loop
 	*/
 	
 	for(row = 1; row < 8; row++)
